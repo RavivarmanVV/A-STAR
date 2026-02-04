@@ -86,6 +86,8 @@ I 1 <br>
 J 0 <br>
 <hr>
 <h2>Sample Output</h2>
+<img width="832" height="676" alt="image" src="https://github.com/user-attachments/assets/4b0bb10a-c9ef-4503-8d31-6dbe0655586d" />
+
 <hr>
 Path found: ['A', 'F', 'G', 'I', 'J']
 
@@ -115,5 +117,7 @@ D 1 <br>
 G 0 <br>
 <hr>
 <h2>Sample Output</h2>
+<img width="653" height="436" alt="image" src="https://github.com/user-attachments/assets/475fb903-8ee4-4634-9dce-ef437aba5d31" />
+
 <hr>
 Path found: ['A', 'E', 'D', 'G']
